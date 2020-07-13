@@ -1,0 +1,9 @@
+Esta es una practica del profe Paco creada con bootstrap
+
+Colaboradores
+
+Editando el index
+
+
+1.- Diego Edgar Ugarte Perez
+2.- ...
