@@ -5,5 +5,5 @@ Colaboradores
 Editando el index
 
 
-1.- Diego Edgar Ugarte Perez
-2.- ...
+1.- Diego Edgar Ugarte Perez --> Header & footer
+2.- ...                         
